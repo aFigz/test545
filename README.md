@@ -2,4 +2,4 @@
 
 This is a new sentence
 
-I made this change in RStudio
+I made this change in RStudio, x2
